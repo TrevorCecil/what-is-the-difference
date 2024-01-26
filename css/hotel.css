@@ -1,0 +1,16 @@
+img{
+    height: 140px;
+    width: 100%;
+}
+.main{
+    background-color: #bdbbbb;
+    color: white;
+    width: 30%;
+}
+.sec{
+    background-color: darkorange;
+    color: white;
+}
+h4{
+    font-weight: lighter;
+}
